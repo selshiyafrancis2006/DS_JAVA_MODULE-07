@@ -19,7 +19,8 @@ To write a Java program to:
 7. Stop the program.  
 
 Developed By:
-Name : Selshiya f
+Name : Selshiya F
+
 Register number : 212224060241
 
 ## Program:
